@@ -107,4 +107,4 @@ Uncovers the top three primary purchasing barriers (infrastructure, price, and r
 
 # Live Dashboard Link
 
-👉 [Click here to view and interact with the live Tableau Dashboard!](https://public.tableau.com/app/profile/ayush.raj5695/viz/EVConsumerInsightsDashboard/Dashboard1?publish=yes)
+[Click here to view and interact with the live Tableau Dashboard!](https://public.tableau.com/app/profile/ayush.raj5695/viz/EVConsumerInsightsDashboard/Dashboard1?publish=yes)
