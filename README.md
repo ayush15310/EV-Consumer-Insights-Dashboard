@@ -1,5 +1,7 @@
 # EV Consumer Insights Dashboard
 
+![Dashboard Preview](dashboard.png)
+
 ## Project Overview
 
 This project is an interactive data dashboard built using Tableau. It takes raw consumer survey data from nearly 10,000 people and turns it into clean charts. The goal of this dashboard is to help car companies understand what people think about Electric Vehicles (EVs), how much they are willing to spend, and what stops them from buying one.
