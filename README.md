@@ -2,7 +2,7 @@
 
 ## Project Overview
 
-This project is an interactive data dashboard built using Tableau. It takes raw consumer survey data from 1,000 people and turns it into clean charts. The goal of this dashboard is to help car companies understand what people think about Electric Vehicles (EVs), how much they are willing to spend, and what stops them from buying one.
+This project is an interactive data dashboard built using Tableau. It takes raw consumer survey data from 10,000 people and turns it into clean charts. The goal of this dashboard is to help car companies understand what people think about Electric Vehicles (EVs), how much they are willing to spend, and what stops them from buying one.
 
 ---
 
@@ -48,7 +48,7 @@ The dashboard was redesigned from scratch to look clean and professional:
 
 ### Headline Metrics
 
-* **Total Respondents:** 1,000 people took this survey, giving us a strong sample size.
+* **Total Respondents:** 10,000 people took this survey, giving us a strong sample size.
 
 * **Average Effective Price:** The average price across all EV brands is **$40,694 USD**.
 
@@ -70,7 +70,7 @@ The dashboard was redesigned from scratch to look clean and professional:
 
 * **#1 Barrier:** **Charging Infrastructure** is the biggest worry for consumers, with **203 people** naming it as their top concern.
 
-* **Home Charging Access:** Out of the 1,000 people surveyed, **639 people** are able to charge their cars at home, while **361 people** cannot.
+* **Home Charging Access:** Out of the people surveyed, **639 people** are able to charge their cars at home, while **361 people** cannot.
 
 ---
 
