@@ -88,4 +88,4 @@ The dashboard was redesigned from scratch to look clean and professional:
 
 # Live Dashboard Link
 
-👉 [Click here to view and interact with the live Tableau Dashboard!](PASTE_YOUR_TABLEAU_SHARE_LINK_HERE)
+👉 [Click here to view and interact with the live Tableau Dashboard!](https://prod-in-a.online.tableau.com/#/site/rajayush15310-4ee8a146bd/views/EVConsumerInsightsDashboard/Dashboard1?:iid=1)
