@@ -100,7 +100,9 @@ Uncovers the top three primary purchasing barriers (infrastructure, price, and r
 * **Data Visualization** - Chart selection and UI layout design.
 
 * **GitHub** - Project documentation and hosting.
-
+  
+### Technical Documentation
+* [Click here to view the SQL code used for this project](analysis_queries.sql)
 ---
 
 # Live Dashboard Link
